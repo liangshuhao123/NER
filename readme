@@ -1,0 +1,22 @@
+COMP5046 - Group 124 - Assignment 2
+
+All files required to run our code are in the root folder of the files contained in this zip file. The contents are described below.
+
+## ipynb file:
+Group124_A2.ipynb
+
+The ipynb contains all the cells necessary to run each model described in the accompanying document. Before running each model, cell sections labelled 1 through to 6 need to be run. Then selected models are presented in cell sections 7.1 to 7.13, before a final complete ablation study in section 8
+
+## data:
+test.csv
+train.csv
+val.csv
+
+This is the original data provided for the assignment and needs to be in same folder as the ipynb file.
+
+## training_validation_report_output:
+This folder contains the ipynb terminal output for the training and validation of each of the selected models. The file naming convention is 7_X_train or 7_X_report where the 7_X corresponds to the section in the notebook.
+
+## trained_models:
+This folder contains the saved trained models from the ipynb file and their test set predictions
+
